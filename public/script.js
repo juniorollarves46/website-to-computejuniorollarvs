@@ -1,7 +1,30 @@
-/*
-  This is your site JavaScript code - you can add interactivity!
-*/
+let Lineal {
+  constructor('mujeres', 'amigos')
+{
+  this.mujeres = mujeres;
+  this.amigos = amigos;
+};
+}
+new Lineal = this.mujeres('Maria', 'Pepo');
 
-// Print a message in the browser's dev tools console each time the page loads
-// Use your menus or right-click / control-click and choose "Inspect" > "Console"
-console.log("Hello 🌎");
+let inyectiva {
+  constructor('maricos', 'hembras')
+  { 
+  this.maricos = mujeres;
+    this.hembras = hembras;
+  };}
+  new inyectiva =this.hembras('devora', 'angela');
+
+export('funciones') =
+{
+  this.Lineal('mujeres', 'amigos');
+};
+
+exports.funciones = {
+  mujeres = 'Julieth',
+  amigos = 'Fabian'
+};
+
+
+
+
